@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About Me
+title: About ProjectHetu
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+## Hetu Community
+[Hetu Community](projecthetu.com) is a network of creative individuals & organisations who seek to solve problems, network professionally, contribute to think-tanks to collaborate on projects and make the world a better place.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+### Mission
+Project Hetu's mission is to spread awareness and enlighten the creative consciousness of mankind altogether. Mentors & Specialists in Hetu community serve our members with knowledge & the upcoming trends in all kinds of industries and fields.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
